@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ritik564/Codechef_Programs/tree/master/0011-container-with-most-water) |
 | [0344-reverse-string](https://github.com/ritik564/Codechef_Programs/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0541-reverse-string-ii) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ritik564/Codechef_Programs/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ritik564/Codechef_Programs/tree/master/0011-container-with-most-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0350-intersection-of-two-arrays-ii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ritik564/Codechef_Programs/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
