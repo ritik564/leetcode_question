@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ritik564/Codechef_Programs/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ritik564/Codechef_Programs/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/ritik564/Codechef_Programs/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/ritik564/Codechef_Programs/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ritik564/Codechef_Programs/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ritik564/Codechef_Programs/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ritik564/Codechef_Programs/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/ritik564/Codechef_Programs/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ritik564/Codechef_Programs/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ritik564/Codechef_Programs/tree/master/0560-subarray-sum-equals-k) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ritik564/Codechef_Programs/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ritik564/Codechef_Programs/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ritik564/Codechef_Programs/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Greedy
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ritik564/Codechef_Programs/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ritik564/Codechef_Programs/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/ritik564/Codechef_Programs/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ritik564/Codechef_Programs/tree/master/0560-subarray-sum-equals-k) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ritik564/Codechef_Programs/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
