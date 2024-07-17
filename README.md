@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/ritik564/Codechef_Programs/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/ritik564/Codechef_Programs/tree/master/0523-continuous-subarray-sum) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ritik564/Codechef_Programs/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ritik564/Codechef_Programs/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ritik564/Codechef_Programs/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Union Find
 |  |
 | ------- |
