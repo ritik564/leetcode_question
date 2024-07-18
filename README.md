@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ritik564/Codechef_Programs/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ritik564/Codechef_Programs/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ritik564/Codechef_Programs/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/ritik564/Codechef_Programs/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/ritik564/Codechef_Programs/tree/master/0485-max-consecutive-ones) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ritik564/Codechef_Programs/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/ritik564/Codechef_Programs/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ritik564/Codechef_Programs/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ritik564/Codechef_Programs/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ritik564/Codechef_Programs/tree/master/0560-subarray-sum-equals-k) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ritik564/Codechef_Programs/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ritik564/Codechef_Programs/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ritik564/Codechef_Programs/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Greedy
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ritik564/Codechef_Programs/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0229-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
