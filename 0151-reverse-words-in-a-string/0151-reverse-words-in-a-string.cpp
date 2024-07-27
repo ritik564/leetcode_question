@@ -1,37 +1,41 @@
 class Solution {
 public:
     string reverseWords(string s) {
- reverse(s.begin(), s.end());
-
         int n = s.length();
-        int start = 0, end = 0;
+        int i = 0;
+        int j = 0;
+        string w;
+        string result;
 
-        while (end < n) {
-            // Skip leading spaces
-            while (end < n && s[end] == ' ') {
-                end++;
+        while(i < n)
+        {
+         while(i<n && s[i] == ' ')
+         {
+            i++;
+         }
+        j=i;
+
+         while(j<n && s[j] != ' ')
+         {
+            j++;
+         }
+
+        if(i < j)
+        {
+            w = s.substr(i,j-i);
+            if(result.empty())
+            {
+            result = w;
             }
-
-            if (end >= n) break;
-
-            // Set start to the current end
-            if (start != 0) s[start++] = ' ';
-
-            
-
-            // Find the end of the current word
-            int word_start = start;
-            while (end < n && s[end] != ' ') {
-                s[start++] = s[end++];
+            else
+            {
+            result = w+" "+result;
             }
-
-            // Reverse the current word
-            reverse(s.begin() + word_start, s.begin() + start);
+        }
+        i=j+1;
         }
 
-        // Resize the string to remove trailing spaces
-        s.resize(start);
 
-        return s;
+        return result;
     }
 };
