@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ritik564/Codechef_Programs/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/ritik564/Codechef_Programs/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/ritik564/Codechef_Programs/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ritik564/Codechef_Programs/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0541-reverse-string-ii) |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ritik564/Codechef_Programs/tree/master/0128-longest-consecutive-sequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ritik564/Codechef_Programs/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
