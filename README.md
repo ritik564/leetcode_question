@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/ritik564/Codechef_Programs/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/ritik564/Codechef_Programs/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/ritik564/Codechef_Programs/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/ritik564/Codechef_Programs/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/ritik564/Codechef_Programs/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ritik564/Codechef_Programs/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ritik564/Codechef_Programs/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/ritik564/Codechef_Programs/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ritik564/Codechef_Programs/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/ritik564/Codechef_Programs/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ritik564/Codechef_Programs/tree/master/0523-continuous-subarray-sum) |
