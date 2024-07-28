@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ritik564/Codechef_Programs/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/ritik564/Codechef_Programs/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ritik564/Codechef_Programs/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ritik564/Codechef_Programs/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ritik564/Codechef_Programs/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ritik564/Codechef_Programs/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ritik564/Codechef_Programs/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ritik564/Codechef_Programs/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ritik564/Codechef_Programs/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ritik564/Codechef_Programs/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ritik564/Codechef_Programs/tree/master/0560-subarray-sum-equals-k) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ritik564/Codechef_Programs/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ritik564/Codechef_Programs/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ritik564/Codechef_Programs/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ritik564/Codechef_Programs/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Greedy
