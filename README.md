@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ritik564/Codechef_Programs/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ritik564/Codechef_Programs/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0812-rotate-string](https://github.com/ritik564/Codechef_Programs/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/ritik564/Codechef_Programs/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/ritik564/Codechef_Programs/tree/master/2032-largest-odd-number-in-string) |
 ## Array
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/ritik564/Codechef_Programs/tree/master/1078-remove-outermost-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/ritik564/Codechef_Programs/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
