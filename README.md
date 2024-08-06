@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ritik564/Codechef_Programs/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/ritik564/Codechef_Programs/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ritik564/Codechef_Programs/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ritik564/Codechef_Programs/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/ritik564/Codechef_Programs/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ritik564/Codechef_Programs/tree/master/0560-subarray-sum-equals-k) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/ritik564/Codechef_Programs/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ritik564/Codechef_Programs/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ritik564/Codechef_Programs/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ritik564/Codechef_Programs/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/ritik564/Codechef_Programs/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
 | ------- |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ritik564/Codechef_Programs/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ritik564/Codechef_Programs/tree/master/0451-sort-characters-by-frequency) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/ritik564/Codechef_Programs/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ritik564/Codechef_Programs/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Greedy
 |  |
