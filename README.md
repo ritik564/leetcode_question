@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/ritik564/Codechef_Programs/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/ritik564/Codechef_Programs/tree/master/0523-continuous-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ritik564/Codechef_Programs/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ritik564/Codechef_Programs/tree/master/0560-subarray-sum-equals-k) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ritik564/Codechef_Programs/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ritik564/Codechef_Programs/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ritik564/Codechef_Programs/tree/master/0540-single-element-in-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ritik564/Codechef_Programs/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
