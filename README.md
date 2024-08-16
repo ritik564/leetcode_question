@@ -185,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ritik564/Codechef_Programs/tree/master/0278-first-bad-version) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/ritik564/Codechef_Programs/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
