@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ritik564/Codechef_Programs/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/ritik564/Codechef_Programs/tree/master/0624-maximum-distance-in-arrays) |
 | [0907-koko-eating-bananas](https://github.com/ritik564/Codechef_Programs/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/ritik564/Codechef_Programs/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ritik564/Codechef_Programs/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ritik564/Codechef_Programs/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ritik564/Codechef_Programs/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ritik564/Codechef_Programs/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/ritik564/Codechef_Programs/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/ritik564/Codechef_Programs/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ritik564/Codechef_Programs/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ritik564/Codechef_Programs/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
