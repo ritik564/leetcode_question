@@ -208,5 +208,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/ritik564/Codechef_Programs/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/ritik564/Codechef_Programs/tree/master/0620-not-boring-movies) |
 | [1258-article-views-i](https://github.com/ritik564/Codechef_Programs/tree/master/1258-article-views-i) |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/ritik564/Codechef_Programs/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/ritik564/Codechef_Programs/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
