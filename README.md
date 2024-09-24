@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/ritik564/Codechef_Programs/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ritik564/Codechef_Programs/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/ritik564/Codechef_Programs/tree/master/1078-remove-outermost-parentheses) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/ritik564/Codechef_Programs/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ritik564/Codechef_Programs/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ritik564/Codechef_Programs/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/ritik564/Codechef_Programs/tree/master/2032-largest-odd-number-in-string) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ritik564/Codechef_Programs/tree/master/0410-split-array-largest-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/ritik564/Codechef_Programs/tree/master/0624-maximum-distance-in-arrays) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ritik564/Codechef_Programs/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/ritik564/Codechef_Programs/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ritik564/Codechef_Programs/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2032-largest-odd-number-in-string](https://github.com/ritik564/Codechef_Programs/tree/master/2032-largest-odd-number-in-string) |
 ## Math
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ritik564/Codechef_Programs/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ritik564/Codechef_Programs/tree/master/0451-sort-characters-by-frequency) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/ritik564/Codechef_Programs/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ritik564/Codechef_Programs/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ritik564/Codechef_Programs/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Simulation
