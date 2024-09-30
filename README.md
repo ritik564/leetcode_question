@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ritik564/Codechef_Programs/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/ritik564/Codechef_Programs/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ritik564/Codechef_Programs/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ritik564/Codechef_Programs/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/ritik564/Codechef_Programs/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritik564/Codechef_Programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ritik564/Codechef_Programs/tree/master/0128-longest-consecutive-sequence) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ritik564/Codechef_Programs/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ritik564/Codechef_Programs/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ritik564/Codechef_Programs/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Union Find
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/ritik564/Codechef_Programs/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ritik564/Codechef_Programs/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/ritik564/Codechef_Programs/tree/master/1827-invalid-tweets) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ritik564/Codechef_Programs/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
