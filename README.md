@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ritik564/Codechef_Programs/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ritik564/Codechef_Programs/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ritik564/Codechef_Programs/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/ritik564/Codechef_Programs/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ritik564/Codechef_Programs/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ritik564/Codechef_Programs/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritik564/Codechef_Programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ritik564/Codechef_Programs/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ritik564/Codechef_Programs/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/ritik564/Codechef_Programs/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ritik564/Codechef_Programs/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ritik564/Codechef_Programs/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ritik564/Codechef_Programs/tree/master/0205-isomorphic-strings) |
@@ -235,5 +237,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ritik564/Codechef_Programs/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/ritik564/Codechef_Programs/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ritik564/Codechef_Programs/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
