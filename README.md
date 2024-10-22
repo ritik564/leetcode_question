@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ritik564/Codechef_Programs/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ritik564/Codechef_Programs/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/ritik564/Codechef_Programs/tree/master/0624-maximum-distance-in-arrays) |
+| [0890-lemonade-change](https://github.com/ritik564/Codechef_Programs/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/ritik564/Codechef_Programs/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ritik564/Codechef_Programs/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ritik564/Codechef_Programs/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ritik564/Codechef_Programs/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/ritik564/Codechef_Programs/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/ritik564/Codechef_Programs/tree/master/0624-maximum-distance-in-arrays) |
+| [0890-lemonade-change](https://github.com/ritik564/Codechef_Programs/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ritik564/Codechef_Programs/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ritik564/Codechef_Programs/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ritik564/Codechef_Programs/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
