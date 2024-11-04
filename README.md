@@ -250,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ritik564/Codechef_Programs/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ritik564/Codechef_Programs/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ritik564/Codechef_Programs/tree/master/0074-search-a-2d-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/ritik564/Codechef_Programs/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
