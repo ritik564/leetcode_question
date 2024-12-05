@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/ritik564/Codechef_Programs/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ritik564/Codechef_Programs/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ritik564/Codechef_Programs/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/ritik564/Codechef_Programs/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## String
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/ritik564/Codechef_Programs/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/ritik564/Codechef_Programs/tree/master/2032-largest-odd-number-in-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ritik564/Codechef_Programs/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/ritik564/Codechef_Programs/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Array
 |  |
 | ------- |
