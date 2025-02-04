@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/ritik564/Codechef_Programs/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ritik564/Codechef_Programs/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ritik564/Codechef_Programs/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/ritik564/Codechef_Programs/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ritik564/Codechef_Programs/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ritik564/Codechef_Programs/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ritik564/Codechef_Programs/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
