@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/ritik564/Codechef_Programs/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/ritik564/Codechef_Programs/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ritik564/Codechef_Programs/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1364-tuple-with-same-product](https://github.com/ritik564/Codechef_Programs/tree/master/1364-tuple-with-same-product) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ritik564/Codechef_Programs/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ritik564/Codechef_Programs/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ritik564/Codechef_Programs/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ritik564/Codechef_Programs/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/ritik564/Codechef_Programs/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ritik564/Codechef_Programs/tree/master/0560-subarray-sum-equals-k) |
+| [1364-tuple-with-same-product](https://github.com/ritik564/Codechef_Programs/tree/master/1364-tuple-with-same-product) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ritik564/Codechef_Programs/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ritik564/Codechef_Programs/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ritik564/Codechef_Programs/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ritik564/Codechef_Programs/tree/master/0451-sort-characters-by-frequency) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ritik564/Codechef_Programs/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1364-tuple-with-same-product](https://github.com/ritik564/Codechef_Programs/tree/master/1364-tuple-with-same-product) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ritik564/Codechef_Programs/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ritik564/Codechef_Programs/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ritik564/Codechef_Programs/tree/master/2163-kth-distinct-string-in-an-array) |
