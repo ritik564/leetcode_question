@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ritik564/Codechef_Programs/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ritik564/Codechef_Programs/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ritik564/Codechef_Programs/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ritik564/Codechef_Programs/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ritik564/Codechef_Programs/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ritik564/Codechef_Programs/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ritik564/Codechef_Programs/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/ritik564/Codechef_Programs/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ritik564/Codechef_Programs/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/ritik564/Codechef_Programs/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/ritik564/Codechef_Programs/tree/master/0455-assign-cookies) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ritik564/Codechef_Programs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ritik564/Codechef_Programs/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/ritik564/Codechef_Programs/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/ritik564/Codechef_Programs/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritik564/Codechef_Programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/ritik564/Codechef_Programs/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/ritik564/Codechef_Programs/tree/master/0493-reverse-pairs) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ritik564/Codechef_Programs/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/ritik564/Codechef_Programs/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
